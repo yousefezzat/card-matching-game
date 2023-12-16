@@ -4,4 +4,4 @@ A game where the player should choose the different image from multiple cards to
 
 ## Screenshots
 
-![Alt text](image.png)
+![Alt text](./screenshots/image.png)
